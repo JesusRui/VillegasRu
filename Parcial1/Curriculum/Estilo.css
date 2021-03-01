@@ -1,0 +1,38 @@
+body{
+    background-color: aquamarine;
+    
+}
+
+h2{
+    text-align: center;
+}
+
+div{
+    background-color: white;
+    border: 1px solid black;
+    padding: 12px;
+    width: 60%;
+    margin: auto;
+}
+
+fieldset{
+    margin-bottom: 12px;
+    background-color: rgb(234, 234, 243);
+}
+
+legend{
+    background-color: rgb(228, 214, 214);
+    font-weight: bold;
+    padding: 5px;
+
+}
+  
+img{
+    border-radius: 40%;
+    margin: 2px 12px;
+    float: left;
+}
+
+span{
+    font-weight: bold ;
+}
