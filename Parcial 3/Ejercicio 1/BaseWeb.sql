@@ -1,5 +1,5 @@
-CREATE DATABASE VillegasRu
-use VillegasRu;
+CREATE DATABASE villegasru
+use villegasru;
 
 CREATE TABLE `villegasru`.`clientes` (
   `idclientes` INT NOT NULL,
